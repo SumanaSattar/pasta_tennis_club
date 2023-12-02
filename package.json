@@ -2,7 +2,7 @@
   "name": "tennis-club-pasta",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SumanaSattar.github.io/pasta_tennis_club",
+  "homepage": "https://sumanasattar.github.io/pasta_tennis_club/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
