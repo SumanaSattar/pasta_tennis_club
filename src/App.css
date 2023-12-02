@@ -1,0 +1,32 @@
+.App-header{
+  background-color: #171d47;
+  height:100px
+}
+.Image-wrapper{
+display:flex;
+justify-content: center;
+padding-top:20px;
+}
+.Header-image{
+  border:1px solid #f2a95d;
+  width:100px;
+  height:auto;
+}
+.Hero{
+  background-color: #202861;
+  height:90vh;
+  color:white;
+  margin-top:-10px;
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+  > h1 {
+     padding-top: 30px;
+  }
+  
+}
+/* orange color : #f2a95d
+blue color:#171d47
+red color:#c62a3a
+
+https://preview.colorlib.com/#sportsteam */
