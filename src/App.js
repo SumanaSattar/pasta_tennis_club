@@ -13,7 +13,6 @@ function App() {
       <div className='Hero'>
         <h1>PASTA</h1>
         <p>Coming Soon...</p>
-        <p>work in progress</p>
       </div>
       
     </div>
