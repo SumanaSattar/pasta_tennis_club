@@ -11,7 +11,7 @@ function App() {
       </header>
       <div className='Hero'>
         <h1>PASTA</h1>
-        <p>Coming Soon...</p>
+        <p>Coming Soon...,</p>
       </div>
       
     </div>
